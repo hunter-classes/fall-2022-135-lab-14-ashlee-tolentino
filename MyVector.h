@@ -5,7 +5,7 @@ class MyVector{
 private:
   int max_size;
   int current_size;
-  T *arr;
+  T *array;
 
 public:
   MyVector();
